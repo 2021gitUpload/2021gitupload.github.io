@@ -1,6 +1,2 @@
-Thanks for downloading this template!
+高雄市私立富華養護中心
 
-Template Name: Kelly
-Template URL: https://bootstrapmade.com/kelly-free-bootstrap-cv-resume-html-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
